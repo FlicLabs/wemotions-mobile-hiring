@@ -6,7 +6,7 @@ To build and run the app on your device, do the following:
 -   Fork/clone this repo to your computer using 
 
 ```bash
-https://github.com/FlicLabs/wemotions-mobile.git
+https://github.com/FlicLabs/wemotions-mobile-hiring.git
 ```
 
 - Use Flutter **FVM** to setup project.
